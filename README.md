@@ -1,6 +1,6 @@
-# FAST Keypoints
+# AKAZE Keypoints
 
-fastkeypoints-melvincabatuan created by Classroom for GitHub
+akazekeypoints-melvincabatuan created by Classroom for GitHub
 
 ## Prerequisite:
 
@@ -11,11 +11,11 @@ fastkeypoints-melvincabatuan created by Classroom for GitHub
 
 To accept the assignment, click the following URL:
 
-https://classroom.github.com/assignment-invitations/91164f78fbf1305cac1f6870b91a6580
+https://classroom.github.com/assignment-invitations/43483956deb56938fb98fb6b13166664
 
 ## Sample Solution:
 
-https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-melvincabatuan
+https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan
 
 ## Submission Procedure with Git: 
 
@@ -33,8 +33,12 @@ $ git push -u origin master
 ## Screenshots:
 
 
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-melvincabatuan/blob/master/device-2015-11-09-181136.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan/blob/master/device-2015-11-09-222556.png)
 
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-melvincabatuan/blob/master/device-2015-11-09-181227.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan/blob/master/device-2015-11-09-222742.png)
 
-"*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*" - Martin Golding
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan/blob/master/device-2015-11-10-045413.png)
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/akazefeatures-melvincabatuan/blob/master/device-2015-11-10-063119.png)
+
+"*Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.*" - Linus Torvalds (Finnish American, software engineer and hacker, principal force behind the development of the Linux kernel)
